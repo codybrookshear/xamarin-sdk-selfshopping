@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0c5ce4c4-0db0-4d9d-b564-694cfc7ebd50" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="124414d9-c249-454b-bfda-c37516e030d8" Title="Com.Datalogic.Extension.Selfshopping" Url="html/N_Com_Datalogic_Extension_Selfshopping.htm">
+      <HelpTOCNode Id="dff64385-8093-498d-8260-063f4cc2880e" Title="Version Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Version.htm">
+        <HelpTOCNode Title="Version Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Version__ctor.htm" />
+        <HelpTOCNode Id="b37261d7-2177-42a4-bba7-fdab79d706e7" Title="Version Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Version.htm">
+          <HelpTOCNode Title="DeviceSelfshoppingExtensionVersion Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Version_DeviceSelfshoppingExtensionVersion.htm" />
+          <HelpTOCNode Title="DeviceSelfshoppingExtensionVersionInt Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Version_DeviceSelfshoppingExtensionVersionInt.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a74363a3-bf54-4987-a045-06cf98629f1f" Title="Version Fields" Url="html/Fields_T_Com_Datalogic_Extension_Selfshopping_Version.htm">
+          <HelpTOCNode Title="SelfshoppingExtensionVersion Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersion.htm" />
+          <HelpTOCNode Title="SelfshoppingExtensionVersionInt Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersionInt.htm" />
+          <HelpTOCNode Title="SelfshoppingExtensionVersionMajor Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersionMajor.htm" />
+          <HelpTOCNode Title="SelfshoppingExtensionVersionMinor Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersionMinor.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="81d09840-ba32-456b-a831-ffd373f84e6e" Title="Com.Datalogic.Extension.Selfshopping.Cradle" Url="html/N_Com_Datalogic_Extension_Selfshopping_Cradle.htm">
+      <HelpTOCNode Id="5d2532cd-d4d6-4bc8-abd4-59028038cd56" Title="CradleManager Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager.htm">
+        <HelpTOCNode Title="CradleManager Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager__ctor.htm" />
+        <HelpTOCNode Id="2a47023d-0e8d-4814-81c4-e495ce22979f" Title="CradleManager Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager.htm">
+          <HelpTOCNode Title="Cradle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager_Cradle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="13a61ceb-7e32-4ec1-a93e-1169900652ff" Title="CradleType Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType.htm">
+        <HelpTOCNode Id="5b12b358-77c6-4e11-bdcc-bed7463d2d0e" Title="CradleType Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType.htm">
+          <HelpTOCNode Title="JoyaTouchCradle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType_JoyaTouchCradle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e1c8da29-7625-45a2-87e8-7ff292207be6" Title="CradleType Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ee0b45df-979e-4af1-92c5-48ba9af1bc71" Title="ICradle Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle.htm">
+        <HelpTOCNode Id="99369745-9501-4e36-a759-73f6ac48d211" Title="ICradle Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle.htm">
+          <HelpTOCNode Title="IsDeviceInCradle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle_IsDeviceInCradle.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle_Type.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ICradle Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab410298-1fb6-4bda-b6b8-c9094369f7df" Title="Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch" Url="html/N_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch.htm">
+      <HelpTOCNode Id="fac2bff3-7411-4560-9033-ba4145d85f1b" Title="ConfigArea Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea.htm">
+        <HelpTOCNode Id="40b8f9ff-bd81-4141-9f30-1fa7d27a3ed8" Title="ConfigArea Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea__ctor.htm">
+          <HelpTOCNode Title="ConfigArea Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea__ctor.htm" />
+          <HelpTOCNode Title="ConfigArea Constructor (Byte[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e1c1d858-ecee-45e3-aa1e-f5110308a684" Title="ConfigArea Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea.htm">
+          <HelpTOCNode Title="FastChargeEnabled Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea_FastChargeEnabled.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ConfigArea Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9d4583f6-37e4-42c9-ab31-c4ed355a1b88" Title="CustomArea Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea.htm">
+        <HelpTOCNode Id="36628977-0be3-4dab-a681-b35d2007a16b" Title="CustomArea Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor.htm">
+          <HelpTOCNode Title="CustomArea Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor.htm" />
+          <HelpTOCNode Title="CustomArea Constructor (Byte[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor_1.htm" />
+          <HelpTOCNode Title="CustomArea Constructor (Int32)" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CustomArea Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea.htm" />
+        <HelpTOCNode Title="CustomArea Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3b546899-fa12-4847-a202-1a92bf82304f" Title="GenericArea Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea.htm">
+        <HelpTOCNode Id="4000c743-a1d6-4ea4-9561-161281e1ba1c" Title="GenericArea Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor.htm">
+          <HelpTOCNode Title="GenericArea Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor.htm" />
+          <HelpTOCNode Title="GenericArea Constructor (Byte[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor_1.htm" />
+          <HelpTOCNode Title="GenericArea Constructor (Int32)" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="82c66a3e-afb8-4bc5-934f-d12117d5fc77" Title="GenericArea Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea.htm">
+          <HelpTOCNode Title="Size Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea_Size.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="aee3cbcd-097a-4c93-809b-179e00b28d47" Title="GenericArea Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea.htm">
+          <HelpTOCNode Title="GetContent Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea_GetContent.htm" />
+          <HelpTOCNode Title="SetContent Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea_SetContent.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5da441e9-58d5-45db-b070-103a4b63ffd8" Title="ICradleJoyaTouch Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch.htm">
+        <HelpTOCNode Id="702f7ffd-9b36-4dc7-810b-508e1d7daca7" Title="ICradleJoyaTouch Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch.htm">
+          <HelpTOCNode Title="IsFastChargeEnabled Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_IsFastChargeEnabled.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="04b018bc-f260-4d70-a2b9-2bdc0ff60689" Title="ICradleJoyaTouch Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch.htm">
+          <HelpTOCNode Title="ControlLed Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ControlLed.htm" />
+          <HelpTOCNode Title="ControlLock Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ControlLock.htm" />
+          <HelpTOCNode Title="GetCradleState Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_GetCradleState.htm" />
+          <HelpTOCNode Title="ReadConfigArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ReadConfigArea.htm" />
+          <HelpTOCNode Title="ReadCustomArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ReadCustomArea.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_Reset.htm" />
+          <HelpTOCNode Title="WriteConfigArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_WriteConfigArea.htm" />
+          <HelpTOCNode Title="WriteCustomArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_WriteCustomArea.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="73e9b500-39ec-4504-b59d-b014761d8995" Title="LedAction Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction.htm">
+        <HelpTOCNode Id="45bafe8a-3c21-47f5-a6d9-e2d6427abc4b" Title="LedAction Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction.htm">
+          <HelpTOCNode Title="BlinkFast Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_BlinkFast.htm" />
+          <HelpTOCNode Title="BlinkSlow Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_BlinkSlow.htm" />
+          <HelpTOCNode Title="Off Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_Off.htm" />
+          <HelpTOCNode Title="On Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_On.htm" />
+          <HelpTOCNode Title="Toggle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_Toggle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="feff8677-c323-4599-978a-b67eeb2748cb" Title="LedAction Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fdb85cbd-a4aa-4e03-a31d-7295ddd0f90b" Title="LockAction Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction.htm">
+        <HelpTOCNode Id="e9d56f54-1f0d-4677-a40f-7f3df90b6abd" Title="LockAction Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction.htm">
+          <HelpTOCNode Title="Lock Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_Lock.htm" />
+          <HelpTOCNode Title="LockWithLedOff Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_LockWithLedOff.htm" />
+          <HelpTOCNode Title="Unlock Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_Unlock.htm" />
+          <HelpTOCNode Title="UnlockWithLedOn Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_UnlockWithLedOn.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="077ce99f-771e-4876-9d87-9a6d01569665" Title="LockAction Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="696e5547-81ba-4c31-870a-6d04728013b5" Title="StateInfo Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo.htm">
+        <HelpTOCNode Title="StateInfo Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo__ctor.htm" />
+        <HelpTOCNode Id="f22ce030-525b-47e4-93af-cc83c02c7832" Title="StateInfo Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo.htm">
+          <HelpTOCNode Title="ApplVersion Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_ApplVersion.htm" />
+          <HelpTOCNode Title="BtldrVersion Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_BtldrVersion.htm" />
+          <HelpTOCNode Title="InsertionCount Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_InsertionCount.htm" />
+          <HelpTOCNode Title="IsFastChargeAvailable Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_IsFastChargeAvailable.htm" />
+          <HelpTOCNode Title="SlotIndex Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_SlotIndex.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
